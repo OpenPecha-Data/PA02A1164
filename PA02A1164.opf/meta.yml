@@ -1,0 +1,24 @@
+id: PA02A1164
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 6,10: Mātṛkā'
+  language: bo
+  volumes:
+    480513499fc543afba34ff1d52d35939:
+      title: CIII_Third division explanations
+      base_file: CIII_Third division explanations.txt
+      work_id: W3E346485
+    8991e7a007bb4026b26723c581b7e79a:
+      title: CII_Second division explanations
+      base_file: CII_Second division explanations.txt
+      work_id: WFF10E674
+    b24b0a8539da4d5d926c9aa037914e88:
+      title: CI_First division explanations
+      base_file: CI_First division explanations.txt
+      work_id: W2E3423A6
+  chapter_to_tile:
+    CI: Mātṛkā First division list
+    CII: Mātṛkā First division list Second division list
+    CIII: Mātṛkā First division list Second division list Third division list
+created_at: '2022-03-01T22:58:33.296666'
+last_modified_at: '2022-03-01T22:58:33.296672'
